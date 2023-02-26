@@ -1,0 +1,76 @@
+2021-12-19 17:00:03,675 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+2021-12-19 17:00:13,678 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+2021-12-19 17:00:23,679 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2021-12-19 17:00:33,683 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+2021-12-19 17:00:43,693 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+2021-12-19 17:00:53,704 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+2021-12-19 17:01:03,714 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+2021-12-19 17:01:13,720 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+2021-12-19 17:01:23,726 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+2021-12-19 17:01:33,738 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+2021-12-19 17:01:43,749 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+2021-12-19 17:01:53,763 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+2021-12-19 17:02:03,763 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2021-12-19 17:02:13,773 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+2021-12-19 17:02:23,784 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+2021-12-19 17:02:33,796 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+2021-12-19 17:02:43,810 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+2021-12-19 17:02:53,814 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+2021-12-19 17:03:03,820 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+2021-12-19 17:03:13,828 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+2021-12-19 17:03:23,835 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+2021-12-19 17:03:33,842 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+2021-12-19 17:03:43,849 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+2021-12-19 17:03:53,856 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+2021-12-19 17:04:03,860 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+2021-12-19 17:04:13,869 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+2021-12-19 17:04:23,871 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+2021-12-19 17:04:33,882 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+2021-12-19 17:04:43,886 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+2021-12-19 17:04:53,898 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+2021-12-19 17:05:03,912 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+2021-12-19 17:05:13,917 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+2021-12-19 17:05:23,919 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+2021-12-19 17:05:33,923 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+2021-12-19 17:05:43,933 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+2021-12-19 17:05:53,942 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+2021-12-19 17:11:24,988 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 321054ms
+2021-12-19 17:11:34,997 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+2021-12-19 17:11:34,997 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:611] - Evicting 1 items (expired=2, evictionLimit=1)
+2021-12-19 17:11:34,997 WARN [Eureka-EvictionTimer][AbstractInstanceRegistry.java:623] - DS: Registry: expired lease for DTX-NOTIFYMSG-DEMO-BANK1/localhost:dtx-notifymsg-demo-bank1:56081
+2021-12-19 17:11:34,998 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:330] - Cancelled instance DTX-NOTIFYMSG-DEMO-BANK1/localhost:dtx-notifymsg-demo-bank1:56081 (replication=false)
+2021-12-19 17:11:45,005 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+2021-12-19 17:11:47,740 WARN [http-nio-56080-exec-7][AbstractInstanceRegistry.java:353] - DS: Registry: lease doesn't exist, registering resource: DTX-NOTIFYMSG-DEMO-BANK1 - localhost:dtx-notifymsg-demo-bank1:56081
+2021-12-19 17:11:47,741 WARN [http-nio-56080-exec-7][InstanceResource.java:116] - Not Found (Renew): DTX-NOTIFYMSG-DEMO-BANK1 - localhost:dtx-notifymsg-demo-bank1:56081
+2021-12-19 17:11:47,756 INFO [http-nio-56080-exec-8][AbstractInstanceRegistry.java:266] - Registered instance DTX-NOTIFYMSG-DEMO-BANK1/localhost:dtx-notifymsg-demo-bank1:56081 with status UP (replication=false)
+2021-12-19 17:11:48,274 INFO [http-nio-56080-exec-1][AbstractInstanceRegistry.java:266] - Registered instance DTX-NOTIFYMSG-DEMO-BANK1/localhost:dtx-notifymsg-demo-bank1:56081 with status UP (replication=true)
+2021-12-19 17:11:55,017 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+2021-12-19 17:12:05,032 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+2021-12-19 17:12:15,046 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+2021-12-19 17:12:25,050 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+2021-12-19 17:12:35,051 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2021-12-19 17:12:45,056 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+2021-12-19 17:12:55,058 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+2021-12-19 17:13:05,062 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+2021-12-19 17:13:16,342 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1287ms
+2021-12-19 17:13:26,351 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+2021-12-19 17:13:36,351 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+2021-12-19 17:13:46,364 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+2021-12-19 17:13:56,368 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+2021-12-19 17:14:06,370 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+2021-12-19 17:14:16,377 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+2021-12-19 17:14:26,384 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+2021-12-19 17:14:36,392 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+2021-12-19 17:14:46,399 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+2021-12-19 17:14:56,407 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+2021-12-19 17:15:06,416 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+2021-12-19 17:15:16,426 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+2021-12-19 17:15:26,588 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 161ms
+2021-12-19 17:15:29,212 INFO [http-nio-56080-exec-2][AbstractInstanceRegistry.java:266] - Registered instance DTX-NOTIFYMSG-DEMO-PAY/localhost:dtx-notifymsg-demo-pay:56082 with status DOWN (replication=false)
+2021-12-19 17:15:29,296 INFO [http-nio-56080-exec-3][AbstractInstanceRegistry.java:266] - Registered instance DTX-NOTIFYMSG-DEMO-BANK1/localhost:dtx-notifymsg-demo-bank1:56081 with status DOWN (replication=false)
+2021-12-19 17:15:29,366 INFO [Thread-44][EurekaServiceRegistry.java:65] - Unregistering application SEATA-DEMO-DISCOVERY with eureka with status DOWN
+2021-12-19 17:15:29,369 INFO [Thread-44][DefaultEurekaServerContext.java:76] - Shutting down ...
+2021-12-19 17:15:29,372 INFO [Thread-44][DefaultEurekaServerContext.java:79] - Shut down
+2021-12-19 17:15:29,379 INFO [Thread-44][ExecutorConfigurationSupport.java:208] - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-12-19 17:15:29,384 INFO [Thread-44][DiscoveryClient.java:888] - Shutting down DiscoveryClient ...
+2021-12-19 17:15:29,385 INFO [Thread-44][DiscoveryClient.java:911] - Completed shut down of DiscoveryClient
